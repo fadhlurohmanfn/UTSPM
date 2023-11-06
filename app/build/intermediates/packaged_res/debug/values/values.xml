@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFibonacciBlue">#0000FF</color>
+    <color name="colorFibonacciRed">#D14114</color>
+    <color name="colorNumber">#BE8728</color>
+    <color name="colorPrimary">#3F5185</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="purple">#7453AF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">app</string>
+    <string name="button_count">Count</string>
+    <string name="button_toast">Toast</string>
+    <string name="fibonacci_message">Program Fibonacci</string>
+    <style name="Base.Theme.MyAPP" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyAPP" parent="Base.Theme.MyAPP"/>
+</resources>
